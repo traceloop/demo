@@ -10,7 +10,7 @@ readme = "README.md"
 python = ">=3.10, <4"
 llama-index = "^0.10.52"
 streamlit = "^1.36.0"
-traceloop-sdk = "^0.24.0"
+traceloop-sdk = "^0.25.0"
 llama-index-readers-github = "^0.1.9"
 
 
