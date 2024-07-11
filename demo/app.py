@@ -8,7 +8,7 @@ from llama_index.readers.github import GithubRepositoryReader, GithubClient
 
 from traceloop.sdk import Traceloop
 
-Traceloop.init()
+Traceloop.init(disable_batch=True)
 
 Settings.llm = OpenAI(model="gpt-4o")
 Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
