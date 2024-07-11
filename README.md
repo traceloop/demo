@@ -1,6 +1,6 @@
 ## A full demo of Traceloop observability with LlamaIndex on our docs
 
-See https://traceloop.com/demo
+See https://traceloop.com/docs/demo
 
 1. Install:
 
