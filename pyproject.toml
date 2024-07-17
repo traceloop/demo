@@ -12,7 +12,7 @@ python = ">=3.10, <4"
 llama-index = "^0.10.52"
 streamlit = "^1.36.0"
 llama-index-readers-github = "^0.1.9"
-traceloop-sdk = "^0.25.3"
+traceloop-sdk = "^0.25.5"
 
 [build-system]
 requires = ["poetry-core"]
